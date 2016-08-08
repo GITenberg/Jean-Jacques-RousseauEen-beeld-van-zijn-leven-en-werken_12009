@@ -1,0 +1,33 @@
+_repo: Jean-Jacques-RousseauEen-beeld-van-zijn-leven-en-werken_12009
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roland Holst-Van der Schalk, Henriette
+    aliases:
+    - Holst, Henriette van der Schalk Roland
+    - Roland Holst-van der Schalk, Henriëtte Goverdina Anna
+    - Roland Holst, Henriëtte
+    - Schalk, Henriette Roland Holst-Van der
+    birthdate: 1869
+    deathdate: 1952
+    gutenberg_agent_id: '4174'
+    url: http://www.gutenberg.org/2009/agents/4174
+    wikipedia: http://nl.wikipedia.org/wiki/Henriette_Roland_Holst
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12009'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rationalism'
+- !lcc 'B'
+- !lcsh 'Rousseau, Jean-Jacques, 1712-1778'
+- GITenberg
+title: 'Jean Jacques Rousseau
+
+  Een beeld van zijn leven en werken'
+url: http://www.gutenberg.org/ebooks/12009
