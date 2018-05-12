@@ -1,5 +1,8 @@
 _repo: Jean-Jacques-RousseauEen-beeld-van-zijn-leven-en-werken_12009
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Roland Holst-Van der Schalk, Henriette
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4174
     wikipedia: http://nl.wikipedia.org/wiki/Henriette_Roland_Holst
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12009#Jean-Jacques-RousseauEen-beeld-van-zijn-leven-en-werken
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
